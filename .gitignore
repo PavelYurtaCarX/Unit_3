@@ -2,3 +2,9 @@
 Logs
 Temp
 UserSettings
+.vs
+obj
+.vscode
+.vsconfig
+Unit3_Components.sln
+Assembly-CSharp.csproj
