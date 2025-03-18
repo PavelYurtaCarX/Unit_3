@@ -7,6 +7,7 @@ namespace TZ_myWork
     public class PlayerController : MonoBehaviour
     {
         public Spawner spawner;
+        public CloudController cloudController;
         private void Update()
         {
             if (Input.GetKeyDown(KeyCode.X))
@@ -18,6 +19,7 @@ namespace TZ_myWork
             if (Input.GetKeyDown(KeyCode.Z))
             {
                 Debug.Log("Z key down");
+                cloudController.Action();
             }
 
             if (Input.GetKeyDown(KeyCode.Space))

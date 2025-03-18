@@ -67,6 +67,8 @@
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\3.4_Scripts\Cloud.cs" />
     <Compile Include="Assets\Scripts\FreeCamera.cs" />
+    <Compile Include="Assets\Scripts\CloudController.cs" />
+    <Compile Include="Assets\Scripts\Cloud.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AlignedGames\Polygonal Foliage Asset Package\Shaders\Cloud.shader" />

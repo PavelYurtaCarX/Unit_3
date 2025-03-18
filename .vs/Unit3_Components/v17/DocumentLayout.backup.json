@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{1C2F261A-B086-796B-808E-65E7BC64BBFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cloudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C2F261A-B086-796B-808E-65E7BC64BBFE}|Assembly-CSharp.csproj|c:\\xlav\\unit3_components\\assets\\scripts\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2F261A-B086-796B-808E-65E7BC64BBFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C2F261A-B086-796B-808E-65E7BC64BBFE}|Assembly-CSharp.csproj|C:\\XLAV\\Unit3_Components\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C2F261A-B086-796B-808E-65E7BC64BBFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cloud.cs",
-              "DocumentMoniker": "C:\\XLAV\\Unit3_Components\\Assets\\Scripts\\Cloud.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Cloud.cs",
-              "ToolTip": "C:\\XLAV\\Unit3_Components\\Assets\\Scripts\\Cloud.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Cloud.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:26:07.388Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -49,14 +32,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\CloudController.cs",
               "ToolTip": "C:\\XLAV\\Unit3_Components\\Assets\\Scripts\\CloudController.cs",
               "RelativeToolTip": "Assets\\Scripts\\CloudController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T09:57:10.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\XLAV\\Unit3_Components\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
@@ -68,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Spawner.cs",
               "DocumentMoniker": "C:\\XLAV\\Unit3_Components\\Assets\\Scripts\\Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
